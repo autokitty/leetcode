@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80bf8707-55c7-4c08-aa7f-37dba3165043" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/chart.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/META-INF/leetcode.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/n159.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/n3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/n304.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/n340.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/leetcode/n69.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n159.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n304.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n340.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n69.java" afterDir="false" />
+    <list default="true" id="80bf8707-55c7-4c08-aa7f-37dba3165043" name="默认更改列表" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/divided/n34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/n69.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/divided/n69.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +21,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Administrator\IdeaProjects\leetcode\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1ZQ3LkUgvI96reLAE6jXyrQyvUc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -65,7 +57,7 @@
       <recent name="C:\Users\Administrator\IdeaProjects\leetcode\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.n69">
+  <component name="RunManager" selected="Application.n34">
     <configuration name="ChartUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="util.ChartUtil" />
       <module name="leetcode" />
@@ -93,15 +85,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="n340" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="n340" />
+    <configuration name="n34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="divided.n34" />
       <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="divided.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="n69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="n69" />
+      <option name="MAIN_CLASS_NAME" value="divided.n69" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.n34" />
         <item itemvalue="Application.n69" />
         <item itemvalue="Application.n3" />
         <item itemvalue="Application.ChartUtil" />
         <item itemvalue="Application.n159" />
-        <item itemvalue="Application.n340" />
       </list>
     </recent_temporary>
   </component>
@@ -140,61 +138,97 @@
       <option name="presentableId" value="Default" />
       <updated>1584757436485</updated>
       <workItem from="1584757439515" duration="8964000" />
-      <workItem from="1584818583247" duration="230000" />
+      <workItem from="1584818583247" duration="1055000" />
+      <workItem from="1584877451289" duration="2933000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1584818861895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584818861895</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="883" y="179" key="#项目结构" timestamp="1584757442230">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="883" y="179" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1584757442230" />
+    <state x="963" y="132" key="CommitChangelistDialog2" timestamp="1584818948573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="963" y="132" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584818948573" />
     <state x="1144" y="282" key="FileChooserDialogImpl" timestamp="1584818796811">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1144" y="282" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584818796811" />
-    <state width="599" height="344" key="GridCell.Tab.0.bottom" timestamp="1584774774524">
+    <state width="1198" height="346" key="GridCell.Tab.0.bottom" timestamp="1584881837371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="599" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584774774524" />
-    <state width="599" height="344" key="GridCell.Tab.0.center" timestamp="1584774774524">
+    <state width="1198" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584881837371" />
+    <state width="1198" height="346" key="GridCell.Tab.0.center" timestamp="1584881837371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="599" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584774774524" />
-    <state width="599" height="344" key="GridCell.Tab.0.left" timestamp="1584774774524">
+    <state width="1198" height="346" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584881837371" />
+    <state width="1198" height="346" key="GridCell.Tab.0.left" timestamp="1584881837371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="599" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584774774524" />
-    <state width="599" height="344" key="GridCell.Tab.0.right" timestamp="1584774774524">
+    <state width="1198" height="346" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584881837371" />
+    <state width="1198" height="346" key="GridCell.Tab.0.right" timestamp="1584881837371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="599" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584774774524" />
-    <state width="599" height="344" key="GridCell.Tab.1.bottom" timestamp="1584774774525">
+    <state width="1198" height="346" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584881837371" />
+    <state width="1198" height="346" key="GridCell.Tab.1.bottom" timestamp="1584881837577">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="599" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584774774525" />
-    <state width="599" height="344" key="GridCell.Tab.1.center" timestamp="1584774774524">
+    <state width="1198" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584881837577" />
+    <state width="1198" height="346" key="GridCell.Tab.1.center" timestamp="1584881837577">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="599" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584774774524" />
-    <state width="599" height="344" key="GridCell.Tab.1.left" timestamp="1584774774524">
+    <state width="1198" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584881837577" />
+    <state width="1198" height="346" key="GridCell.Tab.1.left" timestamp="1584881837577">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="599" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584774774524" />
-    <state width="599" height="344" key="GridCell.Tab.1.right" timestamp="1584774774525">
+    <state width="1198" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584881837577" />
+    <state width="1198" height="346" key="GridCell.Tab.1.right" timestamp="1584881837577">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="599" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584774774525" />
-    <state x="925" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1584818589141">
+    <state width="1198" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584881837577" />
+    <state x="967" y="264" key="Vcs.Push.Dialog.v2" timestamp="1584818891903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="925" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584818589141" />
-    <state x="601" y="151" key="new project wizard" timestamp="1584818725499">
+    <state x="967" y="264" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584818891903" />
+    <state x="925" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1584877451850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="601" y="151" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1584818725499" />
+    <state x="925" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584877451850" />
+    <state x="1104" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584818950795">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1104" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584818950795" />
+    <state x="601" y="151" key="new project wizard" timestamp="1584821678843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="151" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1584821678843" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/divided/n34.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
