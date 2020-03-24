@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80bf8707-55c7-4c08-aa7f-37dba3165043" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sort/quicksort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="80bf8707-55c7-4c08-aa7f-37dba3165043" name="默认更改列表" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +143,7 @@
       <workItem from="1584877451289" duration="2952000" />
       <workItem from="1584965162111" duration="3040000" />
       <workItem from="1584969251328" duration="1436000" />
-      <workItem from="1585014189346" duration="1208000" />
+      <workItem from="1585014189346" duration="1810000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1584818861895</created>
@@ -162,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584884000409</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <created>1585056793049</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585056793049</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test1">
+      <created>1585056934626</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585056934626</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,17 +181,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="883" y="179" key="#项目结构" timestamp="1584757442230">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="883" y="179" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1584757442230" />
-    <state x="963" y="132" key="CommitChangelistDialog2" timestamp="1585056873715">
+    <state x="963" y="132" key="CommitChangelistDialog2" timestamp="1585057384384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="963" y="132" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585056873715" />
+    <state x="963" y="132" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585057384384" />
     <state x="1144" y="282" key="FileChooserDialogImpl" timestamp="1584818796811">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -241,11 +253,6 @@
           <url>file://$PROJECT_DIR$/src/divided/n34.java</url>
           <line>7</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/sort/quicksort.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
