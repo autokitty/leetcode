@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80bf8707-55c7-4c08-aa7f-37dba3165043" name="默认更改列表" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/divided/n34.java" afterDir="false" />
+    <list default="true" id="80bf8707-55c7-4c08-aa7f-37dba3165043" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sort/quicksort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/n69.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/n69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/divided/n69.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
       <recent name="C:\Users\Administrator\IdeaProjects\leetcode\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.n34">
+  <component name="RunManager" selected="Application.quicksort">
     <configuration name="ChartUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="util.ChartUtil" />
       <module name="leetcode" />
@@ -67,13 +65,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="n159" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="n159" />
-      <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="quicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.quicksort" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.quicksort" />
         <item itemvalue="Application.n34" />
         <item itemvalue="Application.n69" />
         <item itemvalue="Application.n3" />
         <item itemvalue="Application.ChartUtil" />
-        <item itemvalue="Application.n159" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +143,10 @@
       <updated>1584757436485</updated>
       <workItem from="1584757439515" duration="8964000" />
       <workItem from="1584818583247" duration="1055000" />
-      <workItem from="1584877451289" duration="2933000" />
+      <workItem from="1584877451289" duration="2952000" />
+      <workItem from="1584965162111" duration="3040000" />
+      <workItem from="1584969251328" duration="1436000" />
+      <workItem from="1585014189346" duration="1208000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1584818861895</created>
@@ -148,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584818861895</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1584884000409</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584884000409</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,54 +177,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="883" y="179" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1584757442230" />
-    <state x="963" y="132" key="CommitChangelistDialog2" timestamp="1584818948573">
+    <state x="963" y="132" key="CommitChangelistDialog2" timestamp="1584883999493">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="963" y="132" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584818948573" />
+    <state x="963" y="132" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584883999493" />
     <state x="1144" y="282" key="FileChooserDialogImpl" timestamp="1584818796811">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1144" y="282" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584818796811" />
-    <state width="1198" height="346" key="GridCell.Tab.0.bottom" timestamp="1584881837371">
+    <state width="1198" height="347" key="GridCell.Tab.0.bottom" timestamp="1584970227699">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1198" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584881837371" />
-    <state width="1198" height="346" key="GridCell.Tab.0.center" timestamp="1584881837371">
+    <state width="1198" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584970227699" />
+    <state width="1198" height="347" key="GridCell.Tab.0.center" timestamp="1584970227699">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1198" height="346" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584881837371" />
-    <state width="1198" height="346" key="GridCell.Tab.0.left" timestamp="1584881837371">
+    <state width="1198" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584970227699" />
+    <state width="1198" height="347" key="GridCell.Tab.0.left" timestamp="1584970227699">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1198" height="346" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584881837371" />
-    <state width="1198" height="346" key="GridCell.Tab.0.right" timestamp="1584881837371">
+    <state width="1198" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584970227699" />
+    <state width="1198" height="347" key="GridCell.Tab.0.right" timestamp="1584970227699">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1198" height="346" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584881837371" />
-    <state width="1198" height="346" key="GridCell.Tab.1.bottom" timestamp="1584881837577">
+    <state width="1198" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584970227699" />
+    <state width="1198" height="347" key="GridCell.Tab.1.bottom" timestamp="1584970228155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1198" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584881837577" />
-    <state width="1198" height="346" key="GridCell.Tab.1.center" timestamp="1584881837577">
+    <state width="1198" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584970228155" />
+    <state width="1198" height="347" key="GridCell.Tab.1.center" timestamp="1584970228154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1198" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584881837577" />
-    <state width="1198" height="346" key="GridCell.Tab.1.left" timestamp="1584881837577">
+    <state width="1198" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584970228154" />
+    <state width="1198" height="347" key="GridCell.Tab.1.left" timestamp="1584970228154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1198" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584881837577" />
-    <state width="1198" height="346" key="GridCell.Tab.1.right" timestamp="1584881837577">
+    <state width="1198" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584970228154" />
+    <state width="1198" height="347" key="GridCell.Tab.1.right" timestamp="1584970228154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1198" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584881837577" />
+    <state width="1198" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584970228154" />
     <state x="967" y="264" key="Vcs.Push.Dialog.v2" timestamp="1584818891903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="967" y="264" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584818891903" />
-    <state x="925" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1584877451850">
+    <state x="925" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1585037721882">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="925" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584877451850" />
+    <state x="925" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585037721882" />
     <state x="1104" y="462" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584818950795">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -227,6 +241,11 @@
           <url>file://$PROJECT_DIR$/src/divided/n34.java</url>
           <line>7</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/quicksort.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
